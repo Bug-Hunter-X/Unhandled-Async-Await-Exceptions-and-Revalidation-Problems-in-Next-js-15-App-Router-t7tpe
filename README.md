@@ -1,0 +1,3 @@
+# Unhandled Async/Await Exceptions and Revalidation Problems in Next.js 15 App Router
+
+This repository demonstrates an uncommon error in Next.js 15's App Router related to the improper handling of asynchronous operations and revalidation.  The initial example shows a flawed API route that doesn't handle potential errors thrown during an asynchronous fetch. The solution demonstrates robust error handling and improved revalidation strategies.
